@@ -1,0 +1,34 @@
+baseURL = 'https://tromsoastronomi.no/'
+languageCode = 'no'
+title = 'Tromsø Astronomiforening'
+theme = 'PaperMod'
+
+Paginate = 6
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  tag = 'tags'
+
+[params]
+  site_logo = 'images/logo_kvadratisk.jpg'
+  mainSections = ['post']
+  recent_posts_number = 3
+
+[[menu.main]]
+  name="Hjem"
+  url="/"
+  weight=1
+
+[[menu.main]]
+  name = "Informasjon"
+  url = "/informasjon/"
+  weight = 2
+
+[[menu.main]]
+  name = "Logg"
+  url = "/post/"
+  weight = 3
