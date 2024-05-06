@@ -1,9 +1,7 @@
 ---
 author: Børge Irgens
-date: "2023-01-17T08:14:46Z"
+date: "2023-01-15"
 title: Skibotn 13.-15. jan 23
-cover:
-    image: 'images/m31.jpg'
 ---
 
 Værvarselet på yr hadde sett dårlig ut i lang tid, men når vi satt på medlemsmøtet på onsdag var det meldt litt delvis skyet oppholdsvær på fredagskvelden. Så tre av oss bestemte oss for å dra inn til Skibotn for å prøve å gjøre noen observasjoner.

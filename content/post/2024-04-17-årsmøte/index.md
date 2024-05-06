@@ -1,7 +1,7 @@
 +++
 title = 'Årsmøte 2024'
 date = 2024-04-17
-draft = true
+draft = false
 +++
 
 Årsmøtet ble avholdt 17. april.
