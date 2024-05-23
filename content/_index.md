@@ -3,6 +3,10 @@ featured_image: 'images/m31.jpg'
 title: Velkommen til Tromsø Astronomiforening
 ---
 
+
+![](/images/traf_logo_navn_stor.png)
+
+
 ## Er du interessert i verdensrommet og stjernehimmelen?
 *Da er du velkommen i astronomiforeningen i Tromsø!*
 
