@@ -23,8 +23,6 @@ Vi vil spesielt følge med på astronomiske begivenheter og hvordan vi kan obser
 
 Planlagte aktiviteter ligger i aktivitetsoversikten.
 
-### Planlagte aktiviteter
-{{< iframe "https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FOslo&bgcolor=%23ffffff&showCalendars=0&mode=AGENDA&title=TrAF-aktiviteter&src=aXBjOXNndG5idHM0YW1nNThiMHZuazV0OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285F4" >}}
 
 ## Bli medlem?
 
@@ -36,7 +34,7 @@ Planlagte aktiviteter ligger i aktivitetsoversikten.
 - Du får mulighet til å låne foreningens utstyr
 - og du trenger ikke ha universitetsutdannelse i astrofysikk
 
-For 2023/2024 er kontingent 250 kroner for vanlige medlemmer og 200 kroner for student/ungdom/familie-medlemmer, og gjelder per sesong (høst til vår). Medlemskontigent betales direkte til bankkonto 4750.07.90160, eller via vipps til Tromsø astronomiforening.
+For 2024/2025 er kontingent 300 kroner for vanlige medlemmer og 200 kroner for student/ungdom/familie-medlemmer, og gjelder per sesong (høst til vår). Medlemskontigent betales direkte til bankkonto 4750.07.90160, eller via vipps til Tromsø astronomiforening.
 
 ## Hvordan kommer du i kontakt med oss?
 
@@ -44,12 +42,4 @@ Kom på et av møtene våre eller send en e-post til <styret@tromsoastronomi.no>
 
 Møtene våre er åpne for alle, det er bare å stikke innom om du lurer på noe astronomirelatert eller er nysgjerrig!
 
-## Styret
-
-For 2023/2024 består styret av følgende personer:
-
-- Børge Irgens (styreleder)
-- Ketil Vegum
-- Robert Tore Larsen
-- Torsten Aslaksen
 
