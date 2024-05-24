@@ -15,6 +15,7 @@ Paginate = 6
 
 [params]
   site_logo = 'images/logo_kvadratisk.jpg'
+  favicon = 'favicon.ico'
   mainSections = ['post']
   recent_posts_number = 3
 
@@ -24,11 +25,7 @@ Paginate = 6
   weight=1
 
 [[menu.main]]
-  name = "Informasjon"
+  name = "Om foreningen"
   url = "/informasjon/"
   weight = 2
 
-[[menu.main]]
-  name = "Logg"
-  url = "/post/"
-  weight = 3
