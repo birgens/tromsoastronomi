@@ -1,7 +1,7 @@
 ---
 title: 'Informasjon om Tromsø astronomiforening'
 cover:
-    image: 'images/m31.jpg'
+    image: 'images/traf_logo_navn_stor.png'
 ---
 ## Hvem er vi?
 
@@ -9,20 +9,22 @@ Tromsø Astronomiforening (TRAF) består av helt vanlige mennesker som har det t
 
 ## Hva gjør vi?
 
+Planlagte aktiviteter ligger i [aktivitetsoversikten](https://calendar.google.com/calendar/embed?src=ipc9sgtnbts4amg58b0vnk5t9g%40group.calendar.google.com&ctz=Europe%2FOslo). Hovedaktivitetene er:
+
 ### Medlemsmøter
 TRAF har medlemsmøter i Tromsø kl 1900 andre onsdag i måneden i vinterhalvåret, hvor vi snakker om astronomirelaterte temaer. Det er foredrag, diskusjoner, og sosialt samvær rundt en kopp kaffe/te. Møtene er åpne for alle og har god takhøyde for spørsmål, kommentarer og innspill. Dersom det er klarvær hender det også at vi kjører ut av byen og setter opp et teleskop eller to for å observere stjernehimmelen.
 
-Møteprogrammet ligger i [aktivitet-oversikten](https://www.tromsoastronomi.no/aktiviteter/).
 
 ### Observasjonsturer
+![Bilde fra observasjonskveld på Kattfjordeidet](/images/observasjonskveld.jpg)
+
 Når det er godt vær prøver vi å ha noen observasjonsturer i Tromsøområdet.
+
+![Bilde fra observatoriet i Skibotn](/images/Skibotn_wide.jpg)
 
 Vi har også et observatorium i Skibotn, og arrangerer medlemsturer hit for å observere og fotografere objekter på stjernehimmelen, og diskutere dem. 
 
 Vi vil spesielt følge med på astronomiske begivenheter og hvordan vi kan observere disse med kikkert eller det blotte øyet.
-
-Planlagte aktiviteter ligger i aktivitetsoversikten.
-
 
 ## Bli medlem?
 
