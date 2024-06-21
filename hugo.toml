@@ -1,4 +1,4 @@
-baseURL = 'https://birgens.github.io/tromsoastronomi/'
+baseURL = 'https://www.tromsoastronomi.no/'
 languageCode = 'no'
 title = 'Tromsø Astronomiforening'
 theme = 'PaperMod'
