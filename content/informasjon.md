@@ -12,7 +12,7 @@ Tromsø Astronomiforening (TRAF) består av helt vanlige mennesker som har det t
 Planlagte aktiviteter ligger i [aktivitetsoversikten](https://calendar.google.com/calendar/embed?src=ipc9sgtnbts4amg58b0vnk5t9g%40group.calendar.google.com&ctz=Europe%2FOslo). Hovedaktivitetene er:
 
 ### Medlemsmøter
-TRAF har medlemsmøter i Tromsø kl 1900 andre onsdag i måneden i vinterhalvåret, hvor vi snakker om astronomirelaterte temaer. Det er foredrag, diskusjoner, og sosialt samvær rundt en kopp kaffe/te. Møtene er åpne for alle og har god takhøyde for spørsmål, kommentarer og innspill. Dersom det er klarvær hender det også at vi kjører ut av byen og setter opp et teleskop eller to for å observere stjernehimmelen. I sesongen 2024/2025 har vi møter i rom A039 på Realfagsbygget på UiT ([https://link.mazemap.com/ALJF123B]). De som kommer sent kan gi tegn ved vinduet så kan vi komme å åpne ytterdøren.
+TRAF har medlemsmøter i Tromsø kl 1900 andre onsdag i måneden i vinterhalvåret, hvor vi snakker om astronomirelaterte temaer. Det er foredrag, diskusjoner, og sosialt samvær rundt en kopp kaffe/te. Møtene er åpne for alle og har god takhøyde for spørsmål, kommentarer og innspill. Dersom det er klarvær hender det også at vi kjører ut av byen og setter opp et teleskop eller to for å observere stjernehimmelen. I sesongen 2024/2025 har vi møter i rom A039 på Realfagsbygget på UiT ([kart][https://link.mazemap.com/ALJF123B]). De som kommer sent kan gi tegn ved vinduet så kan vi komme å åpne ytterdøren.
 
 
 ### Observasjonsturer
