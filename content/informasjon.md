@@ -22,7 +22,7 @@ Når det er godt vær prøver vi å ha noen observasjonsturer i Tromsøområdet.
 
 {{< figure src="/images/Skibotn_wide.jpg" title="Stjernehimmel over Skibotn" >}} 
 
-Vi har også et observatorium i Skibotn, og arrangerer medlemsturer hit for å observere og fotografere objekter på stjernehimmelen, og diskutere dem. 
+Vi har også tilgang til et observatorium i Skibotn, og arrangerer medlemsturer hit for å observere og fotografere objekter på stjernehimmelen, og diskutere dem. Det er skrevet en bok om observatoriet [(digital utgave)](https://munin.uit.no/handle/10037/35373).
 
 Vi vil spesielt følge med på astronomiske begivenheter og hvordan vi kan observere disse med kikkert eller det blotte øyet.
 
