@@ -1,7 +1,7 @@
 ---
 title: '2025 Januarmedlemsmøte'
 date: 2025-01-08T20:32:14+01:00
-draft: true
+draft: false
 ---
 
 Sju medlemmer møtte opp til årets første medlemsmøte. Temaet for møtet var "fremkalling" av planetbilder.
