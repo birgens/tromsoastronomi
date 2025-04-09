@@ -1,6 +1,6 @@
 ---
 title: 'Årsmøte 2025'
-date: 2025-04-23
+date: 2025-04-09
 author: Børge Irgens
 cover:
     image: 'images/årsmøte_banner.png'
