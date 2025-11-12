@@ -1,0 +1,91 @@
+#+TITLE: Eksoplaneter: Nye verdener utenfor solsystemet
+#+AUTHOR: Børge Irgens
+#+DATE: 12. november 2025
+#+REVEAL_THEME: night
+#+REVEAL_HLEVEL: 1
+#+REVEAL_TRANS: slide
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js@4
+#+OPTIONS: toc:nil reveal_width:1600 reveal_height:1000
+
+* Introduksjon
+** Hva er eksoplaneter?
+- Planet i bane om andre stjerner
+- Mer enn 6000 bekreftede eksoplaneter med ventende kandidater
+- statistisk sannsynlig med flere eksoplaneter enn stjerner i galaksen
+
+** Hvorfor er eksoplaneter interessant?
+- Er vi alene?
+- Hvordan ble vårt solsystem formet?
+- Hva er mulig?
+
+** Innholdsfortegnelse
+- [[#historie][Oppdagelse]]
+- [[#deteksjon][Deteksjonsmetoder]]
+- [[#liv][Søk etter liv]]
+* Historie
+:PROPERTIES:
+:CUSTOM_ID: historie
+:END:
+** Første oppdagelser
+- 1992: planet i bane om pulsar
+- 1995: første eksoplanet i bane rundt en sol-lignende stjerne
+  - 51 Pegasi b, en  "hot Jupiter"
+
+** En eksplosjon i eksoplaneter
+#+ATTR_HTML: :width 700
+#+CAPTION: Eksoplanet-deteksjoner
+file:Cumulative_Detections_Per_Year.png
+
+#+begin_notes
+Kepler Space Telescope i 2009. Finner mindre planeter
+#+end_notes
+* Deteksjonsmetoder
+:PROPERTIES:
+:CUSTOM_ID: deteksjon
+:END:
+** Doppler-effekten
+#+ATTR_HTML: :width 700
+#+CAPTION: Radiell hastighet (ESO)
+file:eso0722e.jpg
+
+** Formørkelse
+#+ATTR_HTML: :width 700
+#+CAPTION: TRAPPIST-systemet (NASA)
+file:TRAPPIST_transit.gif
+
+#+begin_notes
+~40 l.y., rød dverg (9%), 7 planeter (3 i HZ), ekstremt nært (1.5-18 dager)
+
+Bonus: lys gjennom atmosfæren gir sammensetning.
+Problem: må være opplinjert.
+#+end_notes
+
+** Direkte bilder
+#+ATTR_HTML: :width 700
+#+CAPTION: HR8799 (Jason Wang m.fl. via WikiMedia Commons)
+file:HR_8799.gif
+
+** Andre metoder
+- Microlensing (Nancy Grace Roman Space Telescope)
+- Posisjon (f.eks. Gaia)
+
+https://science.nasa.gov/exoplanets/how-we-find-and-characterize/
+* Søk for liv
+:PROPERTIES:
+:CUSTOM_ID: liv
+:END:
+** Beboelig sone
+#+ATTR_HTML: :width 900
+file:habitable_zone.png
+
+#+REVEAL: split
+
+#+ATTR_HTML: :width 800
+file:Transmission_spectroscopy.png
+
+* Oppsummering og diskusjon
+** Oppsummering
+- Mange forskjellige måter å oppdage
+- Eksplosjon siste ~20 år
+- Men ingen tegn til liv (enda)
+** Spørsmål og diskusjon
