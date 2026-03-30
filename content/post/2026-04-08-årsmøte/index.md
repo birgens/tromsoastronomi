@@ -1,5 +1,6 @@
 ---
 title: 'Årsmøte 2026'
+date: 2026-03-30
 author: Børge Irgens
 cover:
     image: 'images/årsmøte_banner.png'
