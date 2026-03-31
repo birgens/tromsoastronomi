@@ -11,4 +11,4 @@ cover:
 Årsmøtepapirer:
 - [Saksliste](<2026-04 Saksliste til årsmøtet.pdf>)
 - [Årsrapport](<2026-04 Årsrapport.pdf>)
-- [Årsregnskap](<Årsregnskap TRAF 2025 - 2026.pdf>) og ![eiendeler](<TRAF eiendeler mars 2026.pdf>)
+- [Årsregnskap](<Årsregnskap TRAF 2025 - 2026.pdf>) og [eiendeler](<TRAF eiendeler mars 2026.pdf>)
