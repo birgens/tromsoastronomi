@@ -36,14 +36,13 @@ Vi vil spesielt følge med på astronomiske begivenheter og hvordan vi kan obser
 - Du får mulighet til å låne foreningens utstyr
 - og du trenger ikke ha universitetsutdannelse i astrofysikk
 
-Fra 2024/2025 sesongen er kontingent 300 kroner for vanlige medlemmer og 200 kroner for student/ungdom/familie-medlemmer, og gjelder per sesong (høst til vår). Medlemskontigent betales direkte til bankkonto 4750.07.90160, eller via vipps til Tromsø astronomiforening. Ikke betal medlemkontigent i månedene april og mai slik at vi får det registrert på riktig sesong/regnskap.
+Fra 2024/2025 sesongen er kontingent 500 kroner for vanlige medlemmer og 200 kroner for barn/ungdom/studenter/familie-medlemmer. Første året er medlemskontingentent 200 for alle. Medlemskontingenten gjelder per sesong (høst til vår). Vent til juli med å betale medlemskontingenten for påfølgende sesong slik at vi får det registrert på riktig sesong/regnskap. Kontigent betales direkte til bankkonto 4750.07.90160, eller via vipps til Tromsø astronomiforening. 
 
-I tillegg til å betale medlemskontigenten må du svare på [dette skjemaet](https://forms.gle/cUtfKVxK1GhnXmD19) så du kommer inn i mailingliste og får informasjon om aktiviteter.
+I tillegg til å betale medlemskontigenten må du svare på [dette spørreskjemaet](https://forms.gle/cUtfKVxK1GhnXmD19) så du kommer inn i mailingliste og får informasjon om aktiviteter.
 
 ## Hvordan kommer du i kontakt med oss?
 
 Kom på et av møtene våre eller send en e-post til styret[krøllalfa]tromsoastronomi.no
 
 Møtene våre er åpne for alle, det er bare å stikke innom om du lurer på noe astronomirelatert eller er nysgjerrig!
-
 
